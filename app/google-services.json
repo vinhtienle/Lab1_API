@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578772307051",
+    "project_id": "vinhdvph35610",
+    "storage_bucket": "vinhdvph35610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578772307051:android:1ea74ce76304cd5b2bf52e",
+        "android_client_info": {
+          "package_name": "com.vinhdvph35610.myapp35610"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkzJHmHsbl_xpjrkf4m3sa5kqzs1mn60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
